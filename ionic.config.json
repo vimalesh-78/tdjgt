@@ -1,0 +1,7 @@
+{
+  "name": "Golden Aim",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
